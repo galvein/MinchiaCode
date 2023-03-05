@@ -1,2 +1,2 @@
 ### Summary
-This repo is a shared repo between Mariano and Sandro for Python code.
+Shared repo to upskill Python coding and coding in general.
